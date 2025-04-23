@@ -33,8 +33,8 @@
 <h2>📈 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JanaAlashqar&show_icons=true&theme=radical" width="50%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JanaAlashqar&theme=radical" width="50%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Jana-Alashkarr&show_icons=true&theme=radical" width="50%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Jana-Alashkarr&theme=radical" width="50%"/>
 </p>
 
 ---
