@@ -68,4 +68,6 @@
 
 ---
 
+<h2>⚡ Fun Fact</h2>
+<p>💡 I debug code the way I untangle earphones — with hope, frustration, and finally… a sense of victory. 🎧💻</p>
 
