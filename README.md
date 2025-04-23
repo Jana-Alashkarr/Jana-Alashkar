@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/Jana-Alashkarr/Jana-Alashkar/blob/main/assets/21e42039-bc7f-416b-972d-87bfac56c1e6.jfif" width="45%"/>
+  <img src="https://github.com/Jana-Alashkarr/Jana-Alashkar/blob/main/assets/21e42039-bc7f-416b-972d-87bfac56c1e6.jfif" width="35%" hieght="55%"/>
 </p>
 
 ---
