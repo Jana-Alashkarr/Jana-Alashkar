@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/JanaAlashqar/JanaAlashqar/blob/main/assets/jana-profile.png" width="55%"/>
+  <img src="https://github.com/Jana-Alashkarr/Jana-Alashkar/main/assets/photo_2025-04-23_10-06-19.jpg" width="55%"/>
 </p>
 
 ---
@@ -62,7 +62,7 @@
 <h2>📫 Connect with Me</h2>
 <ul>
   <li>📧 Email: <a href="mailto:jana.alashkarr@gmail.com">jana.alashkarr@gmail.com</a></li>
-  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/your-profile">/in/your-profile</a></li>
+  <li>💼 LinkedIn: <a href="https://www.linkedin.com/in/jana-alashkarr-655a39239">/in/your-profile</a></li>
   <li>💻 GitHub: <a href="https://github.com/Jana-Alashkarr">JanaAlashkar</a></li>
 </ul>
 
